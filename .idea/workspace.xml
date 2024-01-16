@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afb01aa4-c542-4ff5-a7fb-cd278587cad9" name="Changes" comment="esercizio1">
-      <change afterPath="$PROJECT_DIR$/src/week2/esercizio2.java" afterDir="false" />
+    <list default="true" id="afb01aa4-c542-4ff5-a7fb-cd278587cad9" name="Changes" comment="esercizi">
+      <change afterPath="$PROJECT_DIR$/src/week2/giorno2/esercizio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week2/giorno2/esercizio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week2/giorno2/esercizio3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week2/esercizio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/giorno1/esercizio1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week2/esercizio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/giorno1/esercizio2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,12 +27,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "AlessandroForestiero"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AlessandroForestiero&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -36,6 +40,9 @@
         <option name="url" value="https://github.com/AlessandroForestiero/corso_backend.git" />
       </UrlAndAccount>
     </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/week2/giorno2/esercizio2.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -50,12 +57,13 @@
   "keyToString": {
     "Application.esercizio1.executor": "Run",
     "Application.esercizio2.executor": "Run",
+    "Application.parole.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/39380/Downloads/logback-core-1.4.9.jar",
+    "last_opened_file_path": "C:/Users/39380/IdeaProjects/corso_backend/src/week2/giorno1",
     "onboarding.tips.debug.path": "C:/Users/39380/IdeaProjects/corso_backend/src/Main.java",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.0",
@@ -63,6 +71,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\39380\IdeaProjects\corso_backend\src\week2\giorno1" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\39380\IdeaProjects\corso_backend\src" />
     </key>
@@ -92,11 +103,21 @@
       <option name="project" value="LOCAL" />
       <updated>1705334587934</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="esercizio2">
+      <option name="closed" value="true" />
+      <created>1705337318388</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705337318388</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="esercizio1" />
-    <option name="LAST_COMMIT_MESSAGE" value="esercizio1" />
+    <MESSAGE value="esercizio2" />
+    <MESSAGE value="esercizi" />
+    <option name="LAST_COMMIT_MESSAGE" value="esercizi" />
   </component>
 </project>
