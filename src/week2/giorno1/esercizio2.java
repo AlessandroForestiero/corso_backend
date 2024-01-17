@@ -1,9 +1,10 @@
-package week2;
-import java.sql.SQLOutput;
-import java.util.InputMismatchException;
-import java.util.Scanner;
+package week2.giorno1;
+
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+
+import java.util.InputMismatchException;
+import java.util.Scanner;
 public class esercizio2 {
     private static final Logger logger=LoggerFactory.getLogger(esercizio2.class);
     public static void main(String[] args) {

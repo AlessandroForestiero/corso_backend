@@ -1,11 +1,11 @@
-package week2;
+package week2.giorno1;
 
-import java.lang.reflect.Array;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 import java.util.Arrays;
 import java.util.InputMismatchException;
 import java.util.Scanner;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 public class esercizio1 {
 
     private static final Logger logger=LoggerFactory.getLogger(esercizio1.class);

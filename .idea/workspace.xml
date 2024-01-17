@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afb01aa4-c542-4ff5-a7fb-cd278587cad9" name="Changes" comment="esercizi">
-      <change afterPath="$PROJECT_DIR$/src/week2/giorno2/esercizio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week2/giorno2/esercizio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week2/giorno2/esercizio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week2/giorno3/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week2/giorno3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week2/giorno3/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week2/giorno3/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/week2/esercizio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/giorno1/esercizio1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/week2/esercizio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/giorno1/esercizio2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week2/giorno2/esercizio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/giorno2/esercizio3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +58,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "Application.esercizio1.executor": "Run",
     "Application.esercizio2.executor": "Run",
     "Application.parole.executor": "Run",
@@ -111,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705337318388</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="esercizi">
+      <option name="closed" value="true" />
+      <created>1705420906954</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705420906954</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

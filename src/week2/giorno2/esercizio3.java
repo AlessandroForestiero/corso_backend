@@ -3,6 +3,9 @@ package week2.giorno2;
 import java.util.*;
 
 public class esercizio3 {
+    public static void main(String[] args) {
+        ;
+    }
     private HashMap<String, Integer> rubrica = new HashMap<>();
 
     public void aggiungiContatto(String nome, int numero) {
@@ -13,10 +16,13 @@ public class esercizio3 {
         this.rubrica.remove(nome);
     }
 
-    public String ricercaPersona(int numero) {
-        List<String> keys = new ArrayList<>();
-        return "";
+    public void ricercaPersona(int numero) {
+        Set<String> keys = rubrica.keySet();
+        for (String c : keys) {
+            System.out.println(rubrica.get(c));
+        }
     }
 }
+
 
 
