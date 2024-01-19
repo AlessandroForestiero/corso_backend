@@ -5,15 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afb01aa4-c542-4ff5-a7fb-cd278587cad9" name="Changes" comment="esercizi">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week2/giorno3/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week2/giorno3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week2/giorno3/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week2/giorno3/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archivio.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week2/progetto/Archivio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week2/progetto/ArticoloCartaceo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week2/progetto/Libro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week2/progetto/Old.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week2/progetto/Periodicita.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week2/progetto/Rivista.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week2/esercizio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/giorno1/esercizio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week2/esercizio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/giorno1/esercizio2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week2/giorno2/esercizio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/giorno2/esercizio3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +22,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -51,13 +51,16 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2azkv3Djiz4JKfeKAKQSAlidTe5" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.Main.executor": "Run",
     "Application.esercizio1.executor": "Run",
     "Application.esercizio2.executor": "Run",
@@ -123,10 +126,19 @@
       <option name="project" value="LOCAL" />
       <updated>1705420906954</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="esercizi">
+      <option name="closed" value="true" />
+      <created>1705507780090</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705507780090</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="esercizio1" />
     <MESSAGE value="esercizio2" />
     <MESSAGE value="esercizi" />
